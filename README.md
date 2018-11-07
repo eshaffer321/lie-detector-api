@@ -1,5 +1,4 @@
 # Lie-detector-api
-webserver to take in text and return a sentiment analysis from gcp natural language library
 ## Summary
 This is a node.js and express backend with the purpose of parsing text with the Google Natural Language Library. It is a single route that accepts a text body that is passed from the [chrome extenstion](https://github.com/eshaffer321/lie-detector). The express server will then make a request to the [natual language library](https://cloud.google.com/natural-language/) and return the sentiment of the article text. This will determine if language is emotive or potentially biased. This is then returned to the chrome extension for further processing with other sources.
 
@@ -16,5 +15,4 @@ This project came in first place at the [Monterey Startup Hackathon](https://csu
 ## Installing
 `npm install`
 ## Running
-`npm
-
+`node app.js`
