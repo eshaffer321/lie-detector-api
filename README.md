@@ -7,7 +7,7 @@ This project came in first place at the [Monterey Startup Hackathon](https://csu
 
 ## Getting started
 ## Prerequisites 
-* Node.js](https://nodejs.org/en/) installed.
+* [Node.js](https://nodejs.org/en/) installed.
 * [https://www.npmjs.com/](npm) installed.
 * [Google Cloud Platform](https://cloud.google.com/) account and project.
 * Credential added to `app.js` for the [client library](https://cloud.google.com/natural-language/docs/reference/libraries#client-libraries-install-nodejs).
